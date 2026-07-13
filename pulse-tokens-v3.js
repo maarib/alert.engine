@@ -92,8 +92,8 @@
     '--z-decor': '2', '--z-sticky': '30', '--z-modal': '200', '--z-modal-alt': '210',
     '--z-dropdown': '390', '--z-palette': '500', '--z-menu': '555', '--z-tooltip': '600',
     /* layout — page container & navbar */
-    '--content-w': '80%', '--content-w-wide': '96%', '--content-w-compact': '90%',
-    '--nav-w': '90%', '--nav-height': '60px', '--layout-min-width': '1040px'
+    '--content-w': '80%', '--content-w-wide': '90%', '--content-w-compact': '80%',
+    '--nav-w': '90%', '--nav-height': '60px', '--layout-min-width': '1140px'
   };
 
   // ---- DARK overrides (only the tokens that differ in dark mode) -----------
